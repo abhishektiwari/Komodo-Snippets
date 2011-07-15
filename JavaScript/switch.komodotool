@@ -1,0 +1,20 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "switch", 
+  "value": [
+    "switch ([[%tabstop:expression]]) {", 
+    "    case [[%tabstop:label1]]:", 
+    "        [[%tabstop:statements]]", 
+    "        [[%tabstop:break;]]", 
+    "    case [[%tabstop:label2]]:", 
+    "        [[%tabstop:statements]]!@#_currentPos!@#_anchor", 
+    "        [[%tabstop:break;]]", 
+    "    default:", 
+    "        [[%tabstop:statements]]", 
+    "}"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

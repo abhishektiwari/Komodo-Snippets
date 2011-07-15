@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "trim", 
+  "value": [
+    "function stringTrim(s) {", 
+    "\treturn s.replace(/^(\\s|\\u00A0)+|(\\s|\\u00A0)+$/g, \"\");", 
+    "}!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "update_prop", 
+  "value": [
+    "[[%tabstop:myObject]].[[%tabstop:property_name]]=[[%tabstop:new_value]]!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

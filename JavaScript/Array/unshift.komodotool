@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "unshift", 
+  "value": [
+    "[[%tabstop:arr]].unshift([[%tabstop:item1]], [[%tabstop:item2]] [[%tabstop:]])", 
+    "// add value on start of array, original array does change!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

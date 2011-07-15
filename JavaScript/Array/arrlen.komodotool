@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "arrlen", 
+  "value": [
+    "[[%tabstop:!@#_currentPos!@#_anchorarr]].length"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

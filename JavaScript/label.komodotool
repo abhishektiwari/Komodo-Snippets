@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "label", 
+  "value": [
+    "[[%tabstop:labelname]]:", 
+    "    [[%tabstop:statements]]", 
+    "// use break or continue to use this!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

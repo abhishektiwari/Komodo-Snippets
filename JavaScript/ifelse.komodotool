@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "ifelse", 
+  "value": [
+    "if ([[%tabstop:condition]]) {", 
+    "    [[%tabstop:statementsIfTrue]]", 
+    "}", 
+    "else {", 
+    "    [[%tabstop:statementsIfFalse]]", 
+    "}!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

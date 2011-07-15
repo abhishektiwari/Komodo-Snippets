@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "proto_func", 
+  "value": [
+    "[[%tabstop:ClassName]].prototype.[[%tabstop:function_name]] = new Function([[%tabstop:do something with this.property and return]]);", 
+    "// or", 
+    "function [[%tabstop:ClassName]]_[[%tabstop:function_name]] = {", 
+    "    [[%tabstop:do something with this.property and return]]", 
+    "}", 
+    "[[%tabstop:ClassName]].prototype.[[%tabstop:function_name]] = [[%tabstop:ClassName]]_[[%tabstop:function_name]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

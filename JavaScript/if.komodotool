@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "if", 
+  "value": [
+    "if ([[%tabstop:condition]]) {", 
+    "\t!@#_anchor[[%tabstop:!@#_currentPosstatementsIfTrue]]", 
+    "}"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Func", 
+  "value": [
+    "var [[%tabstop:var_name]] = new Function([[%tabstop: args]], [[%tabstop: do something with args and return]]);!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

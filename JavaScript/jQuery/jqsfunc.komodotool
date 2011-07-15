@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "jqsfunc", 
+  "value": [
+    "function(data) {", 
+    "\t// access values using data using key & index", 
+    "\t// data.key[index]", 
+    "\t[[%tabstop:!@#_currentPos!@#_anchor]]", 
+    "}"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

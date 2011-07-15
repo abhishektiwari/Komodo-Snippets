@@ -1,0 +1,20 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "proto", 
+  "value": [
+    "function [[%tabstop:ClassName]]_[[%tabstop:method_outside]] = {", 
+    "    [[%tabstop:do something with this.property and return]]", 
+    "}", 
+    "", 
+    "[[%tabstop:ClassName]].prototype = {", 
+    "    [[%tabstop:property_name]] : [[%tabstop:value]];", 
+    "    // add more properties", 
+    "    [[%tabstop:method_name]] : function() {[[%tabstop:do something with this.property and return]]};", 
+    "    [[%tabstop:method_outside]] : [[%tabstop:ClassName]]_[[%tabstop:method_outside]];", 
+    "}!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

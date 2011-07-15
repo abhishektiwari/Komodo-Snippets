@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "search", 
+  "value": [
+    "[[%tabstop:str]].search([[%tabstop:/perl like matching with ^ $ [] * etc/ig]])", 
+    "//Returns -1 if pattern not found else gives position!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

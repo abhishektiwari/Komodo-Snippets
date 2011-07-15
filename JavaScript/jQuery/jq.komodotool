@@ -1,0 +1,10 @@
+{
+  "keyboard_shortcut": "", 
+  "set_selection": "true", 
+  "name": "jq", 
+  "type": "snippet", 
+  "value": [
+    "$([[%tabstop:selector!@#_currentPos!@#_anchor]])"
+  ], 
+  "indent_relative": "true"
+}

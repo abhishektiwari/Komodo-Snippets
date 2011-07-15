@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "objlen", 
+  "value": [
+    "[[%tabstop:my_object or ClassName]].length;", 
+    "// For all type of objects String, Array, Function!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

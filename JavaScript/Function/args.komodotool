@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "args", 
+  "value": [
+    "for (arg in arguments) {", 
+    "    [[%tabstop:do something with arg]]", 
+    "    // arguments is a method for Function type", 
+    "}", 
+    "// Use for loop using arguments.length!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "object", 
+  "value": [
+    "var [[%tabstop:my_object]] = { '[[%tabstop:property1]]': [[%tabstop:value1]], '[[%tabstop:property!@#_currentPos!@#_anchor2]]': [[%tabstop:value2]], [[%tabstop:]]};", 
+    "// Objects in JavaScript are mutable keyed/key-value/property-value collections"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

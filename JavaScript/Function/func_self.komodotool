@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "func_self", 
+  "value": [
+    "(function() {", 
+    "    // Executed immediately", 
+    "    [[%tabstop:Block of statements]] ", 
+    "})();", 
+    "//Self-invoking Function!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

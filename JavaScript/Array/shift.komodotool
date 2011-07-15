@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "shift", 
+  "value": [
+    "[[%tabstop:arr]].shift()", 
+    "// remove value on start!@#_currentPos!@#_anchor of array and return it, array does change"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "index", 
+  "value": [
+    "[[%tabstop:str]].indexOf([[%tabstop:substring]], [[%tabstop:start]])", 
+    "// Returns -1 if substring not found!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

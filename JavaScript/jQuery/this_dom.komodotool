@@ -1,0 +1,17 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "this_dom", 
+  "value": [
+    "$(this).[[%tabstop:function]];", 
+    "// 'this' is a DOM element when we are inside of a callback function", 
+    "//  normally used in click, each, bind, map and other methods.", 
+    "// In case of  each and map Within the callback function, this refers", 
+    "// to the current DOM element for each iteration.", 
+    "// this must be passed to the $() function before applying jQuery methods to it.", 
+    "// $(\"selector\", this) is same as $(this).find(\"selector\")!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

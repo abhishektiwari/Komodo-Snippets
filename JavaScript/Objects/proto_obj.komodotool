@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "proto_obj", 
+  "value": [
+    "Object.prototype.[[%tabstop:property_name]] = [[%tabstop:value]];", 
+    "// added common property to all objects -> array, function etc!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

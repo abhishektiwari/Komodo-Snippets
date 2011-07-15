@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "proc", 
+  "value": [
+    "proc [[%tabstop:NAME]] {[[%tabstop:ARGS]]} {", 
+    "\t[[%tabstop]]", 
+    "}!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

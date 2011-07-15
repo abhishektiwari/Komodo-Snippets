@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "replace", 
+  "value": [
+    "[[%tabstop:str]].replace([[%tabstop:/perl like matching with ^ $ [] * etc/ig]], [[%tabstop:replacement]])!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

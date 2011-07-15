@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "array", 
+  "value": [
+    "var [[%tabstop:arr!@#_currentPos!@#_anchor]] = [[[%tabstop:item1]], [[%tabstop:item2]] [[%tabstop:]]];"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

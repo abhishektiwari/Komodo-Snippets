@@ -1,0 +1,17 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "jqajax", 
+  "value": [
+    "$.ajax({", 
+    "\ttype: '[[%tabstop:POST or GET]]',", 
+    "\turl: '[[%tabstop:/your/url/]]',", 
+    "\tdata: [[%tabstop:data-a map or string]],", 
+    "\tdataType: '[[%tabstop:json xml text jsonp]]',", 
+    "\tsuccess: [[%tabstop:jqsfunc]]!@#_currentPos!@#_anchor,", 
+    "});"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

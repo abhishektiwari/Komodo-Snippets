@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "new", 
+  "value": [
+    "[[%tabstop:myObject]] = new [[%tabstop:ClassName]]([[%tabstop: arguments]]);", 
+    "// Class name can be custom, standard like Array, String, Function!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

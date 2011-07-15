@@ -1,0 +1,33 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "cons", 
+  "value": [
+    "// Step 1: Define the constructor of new class type,", 
+    "//         initializes properties and also assigns methods", 
+    "// Step 2: Define protype for new class type, either way", 
+    "//         a) initializes properties and also assigns methods both", 
+    "//         b) initialize single property", 
+    "//         c) initialize single method", 
+    "// Step 3: Use new to create object of new class type", 
+    "", 
+    "function [[%tabstop:ClassName]]_[[%tabstop:outside]] () {[[%tabstop:do something using this.property 3]]};", 
+    "", 
+    "// This constructor initializes properties and also assigns methods.", 
+    "function [[%tabstop:ClassName]]([[%tabstop:arg1]], [[%tabstop:arg2]] [[%tabstop:]]) {", 
+    "    // Initialize object properties", 
+    "    this.[[%tabstop:property1]] = [[%tabstop:arg1]];", 
+    "    this.[[%tabstop:property2]] = [[%tabstop:arg2]];", 
+    "", 
+    "    // Define methods for this object type, ", 
+    "    this.[[%tabstop:method1]] = function () {[[%tabstop:do something using this.property 1]]};", 
+    "    this.[[%tabstop:method2]] = function () {[[%tabstop:do something using this.property 2]]};", 
+    "", 
+    "    // you can also define these functions outside before the constructor", 
+    "    this.[[%tabstop:method3]] = [[%tabstop:ClassName]]_[[%tabstop:outside]];", 
+    "}!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

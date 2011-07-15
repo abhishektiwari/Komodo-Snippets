@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "splice", 
+  "value": [
+    "[[%tabstop:arr]].splice([[%tabstop:start]], [[%tabstop:length]], [[%tabstop:optional_new_values]])", 
+    "// deletes a specified number of values from an array", 
+    "// and optionally inserts new values in their place", 
+    "// It changes the original array.!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

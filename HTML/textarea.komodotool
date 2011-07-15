@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "textarea", 
+  "value": [
+    "<textarea id=\"[[%tabstop:id]]\" cols=\"[[%tabstop:45]]\" rows=\"[[%tabstop:15]]\">", 
+    "[[%tabstop:]]", 
+    "</textarea>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

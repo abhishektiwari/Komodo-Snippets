@@ -1,0 +1,20 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "tryf", 
+  "value": [
+    "try {", 
+    "    [[%tabstop:statements to run]]", 
+    "\tthrow [[%tabstop: value or str]];!@#_currentPos!@#_anchor", 
+    "}", 
+    "catch ([[%tabstop:e]]) {", 
+    "    [[%tabstop:statements to run if exception occurs in try block]]", 
+    "}", 
+    "finally {", 
+    "    [[%tabstop:statements to run whether or not an exception occurred ]]", 
+    "}"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

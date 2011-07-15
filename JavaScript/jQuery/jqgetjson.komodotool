@@ -1,0 +1,23 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "jqgetjson", 
+  "value": [
+    "$.getJSON('[[%tabstop:/your/url/]]',", 
+    "    [[%tabstop:Parameters Object|String]],", 
+    "    [[%tabstop:callback_function]]", 
+    "    );", 
+    "/*", 
+    "// Same as", 
+    "$.ajax({", 
+    "    type: 'GET'", 
+    "    url: url,", 
+    "    dataType: 'json',", 
+    "    data: data,", 
+    "    success: callback_function", 
+    "});", 
+    "*/!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

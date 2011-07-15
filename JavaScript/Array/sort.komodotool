@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "sort", 
+  "value": [
+    "[[%tabstop:arr]].sort([[%tabstop:func_name]])", 
+    "// sorting function as an optional argument defined seprately which return value of a-b!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

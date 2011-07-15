@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "set_selection": "true", 
+  "name": "callback_function", 
+  "type": "snippet", 
+  "value": [
+    "function(data) {", 
+    "\t// access values using data using key & index", 
+    "\t// data.key[index]", 
+    "\t[[%tabstop:]]", 
+    "}!@#_currentPos!@#_anchor"
+  ], 
+  "indent_relative": "true"
+}

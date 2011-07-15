@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "vobject", 
+  "value": [
+    "[[%tabstop:object_name]].[[%tabstop:property_name]]", 
+    "// [[%tabstop:object_name]][\"[[%tabstop:property_name ]]\"]!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

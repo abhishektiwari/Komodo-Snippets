@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "block", 
+  "value": [
+    "<?php", 
+    "", 
+    "!@#_currentPos!@#_anchor", 
+    "", 
+    "?>", 
+    ""
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

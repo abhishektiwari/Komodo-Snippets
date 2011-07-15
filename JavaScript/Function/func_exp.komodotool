@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "func_exp", 
+  "value": [
+    "var [[%tabstop:functionName]] = function([[%tabstop:arg1]], [[%tabstop:arg2]] [[%tabstop:]]) {", 
+    "    [[%tabstop:Block of statements]]", 
+    "};", 
+    "// Function Expressions also anonymous functions, must end with semicolon at end!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "push", 
+  "value": [
+    "!@#_currentPos[[%tabstop:arr]].push([[%tabstop:item1]], [[%tabstop:item2]] [[%tabstop:]])", 
+    "// add value on end of array, original array does change!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

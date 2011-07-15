@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "default_arg", 
+  "value": [
+    "[[%tabstop:var_name]] = [[%tabstop:arg]] || [[%tabstop: defult str, num or arr]];", 
+    "// Use logical OR (||) operator to assign default vlues for arguments!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

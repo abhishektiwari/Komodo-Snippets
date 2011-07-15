@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "pop", 
+  "value": [
+    "[[%tabstop:arr]].pop()", 
+    "// remove value on end of array and return it, array does change!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}
